@@ -1,71 +1,92 @@
-<h1 align="center">Hi 👋, I'm Om Nagare</h1>
-<h3 align="center">Bridging the Gap: A DevOps Engineer's Journey to Mastery</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omnagare9975&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Cloud-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jenkins-green?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
-<p align="center">
-  🌱 I’m currently learning <strong>Cloud and Monitoring</strong> <br>
-  💬 Ask me about <strong>DevOps and Cloud services</strong> <br>
-  📫 Reach me at <strong>omnagare07@gmail.com</strong> <br>
-  ⚡ Fun fact: <strong>I love to learn!</strong>
-</p>
-
-<h2 align="center">📝 Blog Posts</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h2 align="center">🔗 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/om-nagare-620b90256" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://medium.com/@omnagare07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/c/ucjdhaqmnasc4ylwsiplhn4w" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40"/>
-  </a>
-</p>
-
-<h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- Profile Header -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omnagare9975&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=omnagare9975&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnagare9975" alt="GitHub Streak" style="margin: 10px;"/>
+  <h1>👋 Hi, I'm Om Nagare</h1>
+  <h3>DevOps Engineer | Cloud Enthusiast | Building Scalable Solutions</h3>
+  <p>Transforming development and operations to ensure seamless delivery and innovation.</p>
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=omnagare9975&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  <img src="https://forthebadge.com/images/badges/reading-brain.svg" alt="Reading Brain"/>
-</p>
+<hr>
+
+<!-- About Section -->
+<div align="center">
+  <p><strong>🌱 Currently learning:</strong> Cloud & Monitoring</p>
+  <p><strong>💬 Ask me about:</strong> DevOps & Cloud Services</p>
+  <p><strong>📫 How to reach me:</strong> omnagare07@gmail.com</p>
+  <p><strong>⚡ Fun Fact:</strong> I love learning and exploring new technologies!</p>
+</div>
+
+<hr>
+
+<!-- Blog Posts Section -->
+<h2 align="center">📝 Recent Blog Posts</h2>
+<div align="center">
+  <!-- Dynamic Blog Posts -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</div>
+
+<hr>
+
+<!-- Connect Section -->
+<h2 align="center">🔗 Connect With Me</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/om-nagare-620b90256" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@omnagare07" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" />
+  </a>
+  <a href="https://www.youtube.com/c/ucjdhaqmnasc4ylwsiplhn4w" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+  </a>
+</div>
+
+<hr>
+
+<!-- Skills Section -->
+<h2 align="center">🛠️ Technologies & Tools</h2>
+<div align="center">
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  </a>
+</div>
+
+<hr>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omnagare9975&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omnagare9975&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnagare9975&theme=radical" alt="GitHub Streak" />
+</div>
+
+<hr>
+
+<!-- Footer Badges -->
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown" />
+</div>
